@@ -1,2 +1,2 @@
 # DOMDrumKit
-Learned how to use the DOM while creating a drum instrument application
+Learned how to use more advanced JavaScript and DOM manipulation to create a drum instrument application
